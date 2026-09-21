@@ -20,11 +20,11 @@ yarn-error.log*
 .env.local
 .env.*.local
 
-# Build output
+# Build output (scoped - do not ignore root assets needed for GitHub Pages)
 dist/
 build/
 .cache/
-*.min.*
+# *.min.*  # keep minified assets for Pages if you add them
 *.map
 
 # Node (only if added later)

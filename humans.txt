@@ -1,0 +1,6 @@
+/* the humans responsible */
+Author: Mogalapalli Rohan
+Site: https://rohanmogalapalli.github.io/sportfolio/
+Location: Vellore, India
+Contact: rohan.m0810@gmail.com
+Stack: HTML · CSS · JS (no build step)
